@@ -1,5 +1,5 @@
 # Shop Standalone App
-CLoud mastery [Enter Your Name Here]
+CLoud mastery David
 This folder contains a standalone storefront:
 
 - `frontend/`: Next.js storefront available at `/shop`
